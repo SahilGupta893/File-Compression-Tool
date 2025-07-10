@@ -1,0 +1,2 @@
+Hello Penguin! Let's compress this file using Huffman coding.
+o

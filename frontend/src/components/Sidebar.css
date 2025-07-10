@@ -1,0 +1,30 @@
+.sidebar {
+  width: 250px;
+  background-color: #1e1e1e;
+  padding: 1rem;
+  border-right: 1px solid #333;
+}
+
+.sidebar-title {
+  font-size: 1.25rem;
+  margin-bottom: 1rem;
+}
+
+.file-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.file-item {
+  background-color: #2a2a2a;
+  margin-bottom: 0.5rem;
+  padding: 0.5rem;
+  border-radius: 4px;
+  font-size: 0.9rem;
+}
+
+.empty {
+  color: #aaa;
+  font-size: 0.85rem;
+}

@@ -1,0 +1,4 @@
+Hello Penguin! Let's compress this file using Huffman coding.
+lorem123
+hello ther
+ewew
