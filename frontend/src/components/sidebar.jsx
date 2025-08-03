@@ -10,7 +10,13 @@ export default function Sidebar({ files }) {
       <ul className="file-list">
         {files.map((file, idx) => (
           <li key={idx} className="file-item">
-            <FaFileArchive className="icon" /> {file.name} ({file.size} KB)
+            <div className="file-content">
+              <FaFileArchive className="icon" />
+              <div>
+                <div className="file-name">{file.name}</div>
+                <div className="file-size">{file.size} KB</div>
+              </div>
+            </div>
             <a
               href={file.downloadUrl || "#"}
               className="download-link"
