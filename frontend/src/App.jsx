@@ -14,7 +14,7 @@ export default function App() {
     <div className="app-container">
       <Sidebar files={compressedFiles} />
       <main className="main-content">
-        <h1 className="title">🚀 FileCompressor</h1>
+        <h1 className="title">FileCompressor</h1>
         <FileUpload onCompress={handleFileCompressed} />
       </main>
     </div>
