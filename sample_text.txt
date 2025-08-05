@@ -1,0 +1,56 @@
+This is a sample text file for testing the Huffman compression algorithm. 
+The Huffman coding algorithm is a data compression algorithm that uses variable-length codes to encode data.
+
+Huffman coding works by:
+1. Analyzing the frequency of each character in the input data
+2. Building a binary tree based on character frequencies
+3. Assigning shorter codes to more frequent characters
+4. Creating a compressed representation of the original data
+
+This file contains repetitive text to demonstrate compression effectiveness.
+This file contains repetitive text to demonstrate compression effectiveness.
+This file contains repetitive text to demonstrate compression effectiveness.
+
+Common words that appear frequently:
+- the
+- and
+- is
+- in
+- to
+- of
+- a
+- that
+- it
+- with
+
+The more repetitive the content, the better the compression ratio will be.
+The more repetitive the content, the better the compression ratio will be.
+The more repetitive the content, the better the compression ratio will be.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+This file demonstrates various compression techniques and algorithms.
+This file demonstrates various compression techniques and algorithms.
+This file demonstrates various compression techniques and algorithms.
+
+The Huffman algorithm is particularly effective for text compression because:
+- It assigns shorter codes to frequently occurring characters
+- It creates an optimal prefix code
+- It achieves compression ratios based on character frequency
+- It is lossless compression, meaning no data is lost
+
+Compression algorithms are essential in modern computing for:
+- Reducing storage requirements
+- Speeding up data transmission
+- Saving bandwidth in network communications
+- Optimizing database storage
+
+This sample file should compress well due to its repetitive nature and common character patterns.
+This sample file should compress well due to its repetitive nature and common character patterns.
+This sample file should compress well due to its repetitive nature and common character patterns.
+
+End of sample file for Huffman compression testing. 
